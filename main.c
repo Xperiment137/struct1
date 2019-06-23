@@ -49,7 +49,7 @@ scanf("%d",&list.votosn);
     case 3:
 
     break;
-    default:printf("Abutarda......SALIENDOOOOOOOOOOOOOO\n");
+    default:printf("Saliendo...\n");
 }
 }
 while(elegir!=0);
